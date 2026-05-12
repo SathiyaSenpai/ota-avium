@@ -2,11 +2,11 @@
   "response": [
     {
       "datetime": 1746374400,
-      "filename": "LunarisAOSP-16.2-20250504-avalon-VANILLA.zip",
-      "id": "your_build_sha256",
+      "filename": "",
+      "id": "",
       "romtype": "VANILLA",
       "size": 1234567890,
-      "url": "https://gofile.io/your_download_link",
+      "url": "",
       "version": "16.2"
     }
   ]
